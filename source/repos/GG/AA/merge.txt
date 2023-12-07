@@ -13,7 +13,7 @@ namespace QueueSender
 
 
             // name of your Service Bus queue
-            // the client that owns the connection and can be used to create senders and receivers
+            // the client that owns the connection andds gsdfg sdg can be used to create senders and receivers
             ServiceBusClient client;
 
             // the sender used to publish messages to the queue
@@ -21,7 +21,7 @@ namespace QueueSender
 
             // number of messages to be sent to the queue
             const int numOfMessages = 3;
-
+d fgsd
 
 sdf sdf 
             // The Service Bus client types are safe to cache and use as a singleton for the lifetime
